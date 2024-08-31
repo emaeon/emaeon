@@ -24,6 +24,8 @@
 
 </div>
 <div align="center">
+
+[![emaeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaeon)](https://github.com/emaeon/github-readme-stats)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emaeon&layout=compact)
 
