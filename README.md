@@ -1,3 +1,4 @@
+https://capsule-render.vercel.app/api?type=venom&height=300&text=emaeon%20github&textBg=false
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+Engineer;Data+Scientist)](https://git.io/typing-svg)
 <!--
 **emaeon/emaeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
