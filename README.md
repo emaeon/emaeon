@@ -9,13 +9,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3168F7&center=true&vCenter=true&width=435&lines=AI+Engineer;Data+Scientist)](https://git.io/typing-svg)
 
 </div>
-
-<div align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-</div>
 <!--
 **emaeon/emaeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
